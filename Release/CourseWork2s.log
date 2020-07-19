@@ -1,0 +1,89 @@
+﻿  HandBook.cpp
+  Main.cpp
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(131,36): warning C4677: it: сигнатура члена, не являющегося частным, содержит частный тип сборки "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(22): message : см. объявление "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(132,37): warning C4677: end: сигнатура члена, не являющегося частным, содержит частный тип сборки "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(22): message : см. объявление "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(135,16): warning C4677: a: сигнатура члена, не являющегося частным, содержит частный тип сборки "HandBook"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(33): message : см. объявление "HandBook"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(178,29): warning C4677: getNodebyRow: сигнатура члена, не являющегося частным, содержит частный тип сборки "Node"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(11): message : см. объявление "Node"
+  MyForm.cpp
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(131,36): warning C4677: it: сигнатура члена, не являющегося частным, содержит частный тип сборки "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(22): message : см. объявление "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(132,37): warning C4677: end: сигнатура члена, не являющегося частным, содержит частный тип сборки "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(22): message : см. объявление "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(135,16): warning C4677: a: сигнатура члена, не являющегося частным, содержит частный тип сборки "HandBook"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(33): message : см. объявление "HandBook"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(178,29): warning C4677: getNodebyRow: сигнатура члена, не являющегося частным, содержит частный тип сборки "Node"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(11): message : см. объявление "Node"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm3.h(95,13): warning C4677: temp: сигнатура члена, не являющегося частным, содержит частный тип сборки "Node"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(11): message : см. объявление "Node"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm5.h(63,13): warning C4677: temp: сигнатура члена, не являющегося частным, содержит частный тип сборки "Node"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(11): message : см. объявление "Node"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.cpp(30,21): warning C4101: e: неиспользованная локальная переменная
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.cpp(146,6): warning C4101: temp: неиспользованная локальная переменная
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.cpp(156,22): warning C4101: e: неиспользованная локальная переменная
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.cpp(204,21): warning C4101: e: неиспользованная локальная переменная
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.cpp(260,21): warning C4101: e: неиспользованная локальная переменная
+  MyForm1.cpp
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(131,36): warning C4677: it: сигнатура члена, не являющегося частным, содержит частный тип сборки "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(22): message : см. объявление "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(132,37): warning C4677: end: сигнатура члена, не являющегося частным, содержит частный тип сборки "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(22): message : см. объявление "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(135,16): warning C4677: a: сигнатура члена, не являющегося частным, содержит частный тип сборки "HandBook"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(33): message : см. объявление "HandBook"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(178,29): warning C4677: getNodebyRow: сигнатура члена, не являющегося частным, содержит частный тип сборки "Node"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(11): message : см. объявление "Node"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm1.cpp(46,39): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\iljas\source\repos\CourseWork2s\MyForm1.cpp(47,41): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\iljas\source\repos\CourseWork2s\MyForm1.cpp(50,22): warning C4101: e: неиспользованная локальная переменная
+  MyForm2.cpp
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(131,36): warning C4677: it: сигнатура члена, не являющегося частным, содержит частный тип сборки "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(22): message : см. объявление "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(132,37): warning C4677: end: сигнатура члена, не являющегося частным, содержит частный тип сборки "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(22): message : см. объявление "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(135,16): warning C4677: a: сигнатура члена, не являющегося частным, содержит частный тип сборки "HandBook"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(33): message : см. объявление "HandBook"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(178,29): warning C4677: getNodebyRow: сигнатура члена, не являющегося частным, содержит частный тип сборки "Node"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(11): message : см. объявление "Node"
+  MyForm3.cpp
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(131,36): warning C4677: it: сигнатура члена, не являющегося частным, содержит частный тип сборки "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(22): message : см. объявление "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(132,37): warning C4677: end: сигнатура члена, не являющегося частным, содержит частный тип сборки "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(22): message : см. объявление "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(135,16): warning C4677: a: сигнатура члена, не являющегося частным, содержит частный тип сборки "HandBook"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(33): message : см. объявление "HandBook"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(178,29): warning C4677: getNodebyRow: сигнатура члена, не являющегося частным, содержит частный тип сборки "Node"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(11): message : см. объявление "Node"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm3.h(95,13): warning C4677: temp: сигнатура члена, не являющегося частным, содержит частный тип сборки "Node"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(11): message : см. объявление "Node"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm3.cpp(7,33): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\iljas\source\repos\CourseWork2s\MyForm3.cpp(9,23): warning C4101: e: неиспользованная локальная переменная
+  MyForm4.cpp
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(131,36): warning C4677: it: сигнатура члена, не являющегося частным, содержит частный тип сборки "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(22): message : см. объявление "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(132,37): warning C4677: end: сигнатура члена, не являющегося частным, содержит частный тип сборки "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(22): message : см. объявление "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(135,16): warning C4677: a: сигнатура члена, не являющегося частным, содержит частный тип сборки "HandBook"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(33): message : см. объявление "HandBook"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(178,29): warning C4677: getNodebyRow: сигнатура члена, не являющегося частным, содержит частный тип сборки "Node"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(11): message : см. объявление "Node"
+  MyForm5.cpp
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(131,36): warning C4677: it: сигнатура члена, не являющегося частным, содержит частный тип сборки "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(22): message : см. объявление "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(132,37): warning C4677: end: сигнатура члена, не являющегося частным, содержит частный тип сборки "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(22): message : см. объявление "Iterator"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(135,16): warning C4677: a: сигнатура члена, не являющегося частным, содержит частный тип сборки "HandBook"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(33): message : см. объявление "HandBook"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm.h(178,29): warning C4677: getNodebyRow: сигнатура члена, не являющегося частным, содержит частный тип сборки "Node"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(11): message : см. объявление "Node"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm5.h(63,13): warning C4677: temp: сигнатура члена, не являющегося частным, содержит частный тип сборки "Node"
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.h(11): message : см. объявление "Node"
+C:\Users\iljas\source\repos\CourseWork2s\MyForm5.cpp(6,33): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\iljas\source\repos\CourseWork2s\MyForm5.cpp(8,23): warning C4101: e: неиспользованная локальная переменная
+  Создание кода...
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.cpp(157): warning C4715: HandBook::get_by_key: значение возвращается не при всех путях выполнения
+C:\Users\iljas\source\repos\CourseWork2s\HandBook.cpp(210): warning C4715: HandBook::operator[]: значение возвращается не при всех путях выполнения
+  .NETFramework,Version=v4.7.AssemblyAttributes.cpp
+  CourseWork2s.vcxproj -> C:\Users\iljas\source\repos\CourseWork2s\Release\CourseWork2s.exe
